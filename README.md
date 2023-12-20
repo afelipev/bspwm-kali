@@ -9,9 +9,9 @@ Primero que nada actualiza el sistema antes de usar este escript con ```sudo apt
 1.- Uso del Script 
 
 ```
-git clone https://github.com/ZLCube/KaliBspwm.git
+git clone https://github.com/AbelardoFelipe/bspwm-kali
 
-cd KaliBspwm
+cd bspwm-kali
 
 chmod +x install.sh
 
